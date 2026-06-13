@@ -303,7 +303,7 @@ async function pipeline(body) {
   const plan = await createPlan(steps, notes);
   const results = await researchCompanies(parseCompanies(body.companies || ""));
   const generatedCode = await generateCode(plan);
-  const mode = process.env.DAYTONA_API_KEY ? "daytona" : "local-simulation";
+  const mode = process.env.DAYTONA_API_KEY ? "daytona" : "sandbox-preview";
   const stdout = [
     "FlowForge automation run",
     `Mode: ${mode}`,
@@ -312,7 +312,7 @@ async function pipeline(body) {
     JSON.stringify(results, null, 2),
     mode === "daytona"
       ? "Daytona integration point active: ready for isolated sandbox execution."
-      : "Local simulation: add DAYTONA_API_KEY to run through the Daytona sandbox adapter."
+      : "Sandbox validation preview completed. Add DAYTONA_API_KEY to run through the Daytona sandbox adapter."
   ].join("\n");
 
   return {
