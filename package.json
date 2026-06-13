@@ -1,0 +1,9 @@
+{
+  "name": "flowforge-agent",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "demo": "node server.mjs",
+    "start": "node server.mjs"
+  }
+}
