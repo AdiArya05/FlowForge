@@ -340,8 +340,9 @@ createServer(async (req, res) => {
       return;
     }
 
-    const path = req.url === "/" ? "/index.html" : req.url || "/index.html";
-    const filePath = join(PUBLIC_DIR, path.replace(/\?.*$/, ""));
+    const pathname = new URL(req.url || "/", `http://${req.headers.host || "localhost"}`).pathname;
+    const path = pathname === "/" ? "/index.html" : pathname;
+    const filePath = join(PUBLIC_DIR, path);
     const data = await readFile(filePath);
     res.writeHead(200, { "Content-Type": mimeTypes[extname(filePath)] || "text/plain" });
     res.end(data);
