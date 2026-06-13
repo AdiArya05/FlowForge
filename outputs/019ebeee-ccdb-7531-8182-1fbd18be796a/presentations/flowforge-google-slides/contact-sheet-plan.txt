@@ -1,0 +1,7 @@
+1 Cover with stack rail.
+2 Left text / right illustration.
+3 Left pipeline / right illustration.
+4 Native circular sponsor loop diagram.
+5 Demo proof panel with metrics and result table.
+6 Left architecture layers / right illustration.
+7 Closing ask and demo checklist.

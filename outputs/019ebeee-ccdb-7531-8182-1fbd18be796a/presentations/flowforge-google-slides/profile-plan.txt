@@ -1,0 +1,8 @@
+Task mode: create
+Primary deck-profile: product-platform
+Secondary gates: engineering-platform for sponsor stack and architecture clarity
+Required proof objects: workflow-before/after, AI agent stack diagram, demo proof panel, architecture loop
+Source/asset requirements: no source deck supplied; no logo.png found in workspace; three generated abstract digital-art images used as illustrative assets
+Brand constraints: no fabricated official sponsor logos or pseudo-icons; use sponsor names as text only
+QA gates: readable in Google Slides, text remains editable, generated images do not contain logos/readable text, slide count matches 7
+Known missing inputs: no existing deck/template, no logo.png, no sponsor API keys in .env.local

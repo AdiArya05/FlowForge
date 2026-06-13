@@ -1,0 +1,11 @@
+Thesis: FlowForge turns hidden repetitive work into tested automation by observing work, reasoning over it, researching live web data, and validating an automation path.
+Audience: Agent Forge judges, builders, sponsor teams, startup/community audience.
+Arc: hidden ops pain -> observed workflow -> AI automation path -> sponsor stack -> working demo -> production architecture -> ask.
+Slides:
+1. FlowForge is an AI operations analyst, not another chatbot. Proof: cover positioning + stack rail.
+2. Repetitive work is invisible until someone records it. Proof: before/after workflow visual + generated illustration.
+3. FlowForge converts one observed workflow into an automation plan. Proof: four-step pipeline + generated stack visual.
+4. The sponsor stack is one production loop, not four disconnected APIs. Proof: native architecture loop.
+5. The demo proves the loop works end-to-end. Proof: native demo output panel with 93% score and table.
+6. The architecture is designed for safe execution and future productionization. Proof: layered architecture + generated command-center visual.
+7. The wedge is workflow mining for AI transformation. Proof: go-to-market sequence and demo checklist.

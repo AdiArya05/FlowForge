@@ -1,0 +1,7 @@
+Slide size: 1280x720.
+Fonts: Arial for Google Slides compatibility.
+Palette: charcoal #070A0F, panel #111722, panel2 #172131, text #F2F7FF, muted #A6B2C4, blue #68A8FF, mint #3DDC97, amber #FFC857.
+Layout: dark product-platform deck, large claim titles, compact proof objects, high-contrast native shapes.
+Images: generated abstract digital-art illustrations only, no logos or readable text.
+Footer/page markers: small FlowForge wordmark bottom right; no logo.png found.
+Banned motifs: fake sponsor logos, heavy generic card grids, unreadably dense text.

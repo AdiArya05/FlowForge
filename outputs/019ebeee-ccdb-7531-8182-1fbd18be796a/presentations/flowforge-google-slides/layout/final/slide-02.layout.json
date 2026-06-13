@@ -1,0 +1,664 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/m8z1ua",
+    "id": "m8z1ua",
+    "slide": 2,
+    "layoutId": "b50e419f-9101-4a85-b867-e4422d2eb30e",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "3bede5b8-9605-47aa-b802-ccf751f62214",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Arial"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b50e419f-9101-4a85-b867-e4422d2eb30e",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "3bede5b8-9605-47aa-b802-ccf751f62214",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "3bede5b8-9605-47aa-b802-ccf751f62214",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kre1w7mp",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#070A0F",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/val87ed8",
+      "id": "2",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#0B111A",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6psfil0r",
+      "id": "3",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#070A0F",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/donyd0z6",
+      "id": "4",
+      "name": "kicker-hidden ops pain-marker",
+      "bbox": [
+        58,
+        54,
+        24,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#3DDC97",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3q5o7qp",
+      "id": "5",
+      "name": "kicker-hidden ops pain-label",
+      "bbox": [
+        92,
+        48,
+        360,
+        18
+      ],
+      "geometry": "rect",
+      "text": "HIDDEN OPS PAIN",
+      "textPreview": "HIDDEN OPS PAIN",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Arial",
+        "color": "#3DDC97",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HIDDEN OPS PAIN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HIDDEN OPS PAIN",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Arial",
+            "color": "#3DDC97",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HIDDEN OPS PAIN",
+              "fontSize": 11,
+              "typeface": "Arial",
+              "color": "#3DDC97",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vixczed8",
+      "id": "6",
+      "bbox": [
+        58,
+        86,
+        560,
+        120
+      ],
+      "geometry": "rect",
+      "text": "Repetitive workflows are everywhere, but they rarely become automations.",
+      "textPreview": "Repetitive workflows are everywhere, but they rarely become automations.",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Arial",
+        "color": "#F2F7FF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Repetitive workflows are"
+          },
+          {
+            "index": 2,
+            "text": "everywhere, but they rarely"
+          },
+          {
+            "index": 3,
+            "text": "become automations."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Repetitive workflows are everywhere, but they rarely become automations.",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Arial",
+            "color": "#F2F7FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Repetitive workflows are everywhere, but they rarely become automations.",
+              "fontSize": 34,
+              "typeface": "Arial",
+              "color": "#F2F7FF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2x4nap4r",
+      "id": "7",
+      "bbox": [
+        62,
+        238,
+        500,
+        118
+      ],
+      "geometry": "rect",
+      "text": "Teams still burn hours on small manual loops: searching sites, copying fields, summarizing pages, filling spreadsheets, and repeating the pattern for every new row.",
+      "textPreview": "Teams still burn hours on small manual loops: searching sites, copying fields, summarizing pages, filling spreadsheets, and repeating the...",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#A6B2C4",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Teams still burn hours on small manual loops: searching"
+          },
+          {
+            "index": 2,
+            "text": "sites, copying fields, summarizing pages, filling"
+          },
+          {
+            "index": 3,
+            "text": "spreadsheets, and repeating the pattern for every new"
+          },
+          {
+            "index": 4,
+            "text": "row."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Teams still burn hours on small manual loops: searching sites, copying fields, summarizing pages, filling spreadsheets, and repeating the pattern for every new row.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#A6B2C4",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Teams still burn hours on small manual loops: searching sites, copying fields, summarizing pages, filling spreadsheets, and repeating the pattern for every new row.",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#A6B2C4"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0z61032",
+      "id": "8",
+      "bbox": [
+        62,
+        388,
+        500,
+        78
+      ],
+      "geometry": "rect",
+      "text": "The missing signal is not intent. It is observed behavior: what people actually do, step by step, before anyone writes a spec.",
+      "textPreview": "The missing signal is not intent. It is observed behavior: what people actually do, step by step, before anyone writes a spec.",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 20,
+        "typeface": "Arial",
+        "color": "#A6B2C4",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The missing signal is not intent. It is observed behavior:"
+          },
+          {
+            "index": 2,
+            "text": "what people actually do, step by step, before anyone"
+          },
+          {
+            "index": 3,
+            "text": "writes a spec."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The missing signal is not intent. It is observed behavior: what people actually do, step by step, before anyone writes a spec.",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Arial",
+            "color": "#A6B2C4",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "The missing signal is not intent. It is observed behavior: what people actually do, step by step, before anyone writes a spec.",
+              "fontSize": 20,
+              "typeface": "Arial",
+              "color": "#A6B2C4"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kf6dcbul",
+      "id": "9",
+      "bbox": [
+        60,
+        520,
+        460,
+        2
+      ],
+      "geometry": "rect",
+      "fillColor": "#263141",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ylc7u54z",
+      "id": "10",
+      "bbox": [
+        62,
+        544,
+        500,
+        34
+      ],
+      "geometry": "rect",
+      "text": "FlowForge starts from a screen recording, not a blank prompt.",
+      "textPreview": "FlowForge starts from a screen recording, not a blank prompt.",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18,
+        "typeface": "Arial",
+        "color": "#A6B2C4",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "FlowForge starts from a screen recording, not a blank prompt."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "FlowForge starts from a screen recording, not a blank prompt.",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Arial",
+            "color": "#A6B2C4",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FlowForge starts from a screen recording, not a blank prompt.",
+              "fontSize": 18,
+              "typeface": "Arial",
+              "color": "#A6B2C4"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/0z61032l",
+      "id": "11",
+      "bbox": [
+        666,
+        74,
+        540,
+        560
+      ],
+      "alt": "Abstract workflow automation illustration",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "asset": {
+        "assetId": "c06bf660-ffb6-4af7-a97e-a5396de10fb3",
+        "contentType": "image/png",
+        "byteLength": 1874608
+      }
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gr2p8nqx",
+      "id": "12",
+      "bbox": [
+        46,
+        668,
+        260,
+        24
+      ],
+      "geometry": "rect",
+      "text": "FlowForge / 02",
+      "textPreview": "FlowForge / 02",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Arial",
+        "color": "#A6B2C4",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "FlowForge / 02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "FlowForge / 02",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Arial",
+            "color": "#A6B2C4",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FlowForge / 02",
+              "fontSize": 11,
+              "typeface": "Arial",
+              "color": "#A6B2C4"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cvixcze",
+      "id": "13",
+      "bbox": [
+        1086,
+        666,
+        150,
+        26
+      ],
+      "geometry": "rect",
+      "text": "FlowForge",
+      "textPreview": "FlowForge",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 14,
+        "typeface": "Arial",
+        "color": "#F2F7FF",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "FlowForge"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "FlowForge",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Arial",
+            "color": "#F2F7FF",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FlowForge",
+              "fontSize": 14,
+              "typeface": "Arial",
+              "color": "#F2F7FF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
