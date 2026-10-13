@@ -196,11 +196,13 @@ async function researchCompanies(companies) {
           },
           body: JSON.stringify({ url: input.url })
         });
+        if (!response.ok) throw new Error(`Research request failed: HTTP ${response.status}`);
         html = await response.text();
       } else {
         const response = await fetchWithTimeout(input.url, {
           headers: { "User-Agent": "FlowForgeHackathon/0.1" }
         });
+        if (!response.ok) throw new Error(`Research request failed: HTTP ${response.status}`);
         html = await response.text();
       }
 
